@@ -1,0 +1,15 @@
+C:\Users\1403371\Documents\AEDS\bin\Debug\net6.0\AEDS.exe
+C:\Users\1403371\Documents\AEDS\bin\Debug\net6.0\AEDS.deps.json
+C:\Users\1403371\Documents\AEDS\bin\Debug\net6.0\AEDS.runtimeconfig.json
+C:\Users\1403371\Documents\AEDS\bin\Debug\net6.0\AEDS.dll
+C:\Users\1403371\Documents\AEDS\bin\Debug\net6.0\AEDS.pdb
+C:\Users\1403371\Documents\AEDS\obj\Debug\net6.0\AEDS.csproj.AssemblyReference.cache
+C:\Users\1403371\Documents\AEDS\obj\Debug\net6.0\AEDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1403371\Documents\AEDS\obj\Debug\net6.0\AEDS.AssemblyInfoInputs.cache
+C:\Users\1403371\Documents\AEDS\obj\Debug\net6.0\AEDS.AssemblyInfo.cs
+C:\Users\1403371\Documents\AEDS\obj\Debug\net6.0\AEDS.csproj.CoreCompileInputs.cache
+C:\Users\1403371\Documents\AEDS\obj\Debug\net6.0\AEDS.dll
+C:\Users\1403371\Documents\AEDS\obj\Debug\net6.0\refint\AEDS.dll
+C:\Users\1403371\Documents\AEDS\obj\Debug\net6.0\AEDS.pdb
+C:\Users\1403371\Documents\AEDS\obj\Debug\net6.0\AEDS.genruntimeconfig.cache
+C:\Users\1403371\Documents\AEDS\obj\Debug\net6.0\ref\AEDS.dll
